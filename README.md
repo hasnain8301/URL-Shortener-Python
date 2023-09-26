@@ -21,13 +21,13 @@ Follow these steps to run the scripts:
 
 1. Create a virtual environment (you can use pipenv).
 2. Install the required libraries from the "requirements.txt" file using this command:
-  ```
-    pip install -r requirements.txt
-  ```
+```
+ pip install -r requirements.txt
+```
 3. Execution:
-- To run the Crawler (to retrieve PDFs and their .txt files), use the following command:
-  ```
-  python process.py
-  ```
+To run the Crawler (to retrieve PDFs and their .txt files), use the following command:
+```
+ python process.py
+```
 
 This README file provides clear instructions and details about the project structure, files, and how to run the scripts. Feel free to make any additional adjustments to suit your project's specific needs.
